@@ -1,0 +1,26 @@
+{
+  "name": "easy-drag-and-drop-file-upload",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "~12.1.0",
+    "@angular/core": "~12.1.0"
+  },
+  "repository": "aniketjack/ngx-easy-drag-and-drop-file-upload",
+  "license": "MIT",
+  "description": "Drag and Drop based file upload for Angular",
+  "keywords": [
+    "ng2",
+    "ngx",
+    "ngx-file-upload",
+    "file-upload-ng2",
+    "angular",
+    "angular2",
+    "typescript",
+    "drag-and-drop",
+    "file-upload",
+    "file",
+    "angular file upload",
+    "drag and drop file upload",
+    "ng file upload"
+  ]
+}

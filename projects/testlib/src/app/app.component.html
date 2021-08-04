@@ -1,0 +1,7 @@
+<easy-dnd-upload 
+    [title]="title" 
+    [fileLimit]="5" 
+    [allowedFiles]="'.csv,.xls,.png'" 
+    [allowMultiple]="false"
+    (droppedFiles)="getDroppedFiles($event)">
+</easy-dnd-upload>

@@ -17,6 +17,20 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "ngx-easy-d3": [
+        "dist/ngx-easy-d3"
+      ],
+      "ngx-easy-d3/*": [
+        "dist/ngx-easy-d3/*"
+      ],
+      "easy-drag-and-drop-file-upload": [
+        "dist/easy-drag-and-drop-file-upload"
+      ],
+      "easy-drag-and-drop-file-upload/*": [
+        "dist/easy-drag-and-drop-file-upload/*"
+      ]
+    }
   }
 }

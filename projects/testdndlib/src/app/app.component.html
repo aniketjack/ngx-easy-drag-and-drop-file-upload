@@ -1,0 +1,9 @@
+<div> Welcome..</div>
+
+<ngx-easy-dnd-upload 
+    [title]="title" 
+    [fileLimit]="5" 
+    [allowedFiles]="'.csv,.xls,.png'" 
+    [allowMultiple]="false"
+    (droppedFiles)="getDroppedFiles($event)">
+</ngx-easy-dnd-upload>
