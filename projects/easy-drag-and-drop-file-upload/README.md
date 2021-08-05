@@ -14,7 +14,7 @@ Angular Drag and drop based file upload library.
 
 Latest version available for each version of Angular
 
-| ngx-toastr | Angular     |
+| Version | Angular version    |
 | ---------- | ----------- |
 | current    | >= 7.x     |
 
