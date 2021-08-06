@@ -66,9 +66,9 @@ export  class  AppComponent {
 
 // Options
   title = 'Pass your custom title here'; // title / heading
-  allowFileTypes:".xls,.csv,.png"; // file types
-  fileLimit:  5; // file limit
-  allowMultiple:  true; // allow multiple files
+  allowFileTypes = ".xls,.csv,.png"; // file types
+  fileLimit = 5; // file limit
+  allowMultiple =  true; // allow multiple files
 
 // Recieved files event
 getDroppedFiles(e){
